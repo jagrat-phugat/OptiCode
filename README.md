@@ -2,33 +2,32 @@
 
 A web-based **Code Reviewer** that takes user-submitted code as input, processes it using the **Google Gemini API**, and provides **detailed reviews and suggestions** to improve the code.
 
-## ✨ Features
+##  Features
 -  **Code Input**: Users can submit code snippets in various languages.
 -  **AI-Powered Review**: Uses **Google Gemini API** to analyze and review the code.
 -  **Quality Feedback**: Provides suggestions on **performance, security, readability, and best practices**.
 -  **Real-time Processing**: Instant analysis and review with AI-powered insights.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Frontend**: React.js
 - **Backend**: Node.js & Express.js
 - **AI Model**: Google Gemini API
 - **Styling**: CSS3
 
-## 🚀 Getting Started
 
-### **1️⃣ Clone the Repository**
+### ** Clone the Repository**
 ```sh
 git clone https://github.com/yourusername/code-reviewer.git
 cd code-reviewer
 ```
-### **3️⃣ Set Up Google Gemini API**
+### ** Set Up Google Gemini API**
 1. Get an API key from [Google AI Studio](https://ai.google.dev/).
 2. Create a `.env` file in the server folder:
 ```sh
 GOOGLE_GEMINI_API_KEY=your_api_key_here
 ```
 
-### **4️⃣ Start the Project**
+### ** Start the Project**
 ```sh
 # Start the backend
 cd server
