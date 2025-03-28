@@ -14,6 +14,8 @@ A web-based **Code Reviewer** that takes user-submitted code as input, processes
 - **AI Model**: Google Gemini API
 - **Styling**: CSS3
 
+## UI
+![Alt Text](https://github.com/jagrat-phugat/OptiCode/blob/main/images/image.png)
 
 ### ** Clone the Repository**
 ```sh
